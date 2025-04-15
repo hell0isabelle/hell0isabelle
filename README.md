@@ -1,6 +1,6 @@
-- 👋 I’m Isabelle ~ my interests are in smart contract development and ML/AI!
-- 💞 I study data science and economics at Boston University, with a physics minor. 
-- 💌 I'm learning Soroban, and am proficient in Python, Rust, Java, and Solidity mainly.
+- 👋 I’m Isabelle ~ my interests are in smart contract development, data visualization and ML/AI!
+- 💞 I'm a Boston University graduate currently working to accelerate the open web at the Blockchain Acceleration Foundation.
+- 💌 I'm proficient in Python, HTML, CSS, JS, SQL, and am working on Solidity.
 
 <!---
 hell0isabelle/hell0isabelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
